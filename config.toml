@@ -1,14 +1,16 @@
-baseURL = 'https://weedwizard.wtf/'
-languageCode = 'en-us'
-title = 'Weed Wizard'
+baseURL = "https://weedwizard.wtf/"
+languageCode = "en-us"
+title = "Weed Wizard"
 theme = "archie"
 copyright = "© Guards of Lourn"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
 
-
-paginate=3
 
 [params]
   mode = "toggle"
+  useCDN = false
 
 [[menu.main]]
 name = "Home"
