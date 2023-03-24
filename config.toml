@@ -1,6 +1,6 @@
 baseURL = "https://weedwizard.wtf/"
 languageCode = "en-us"
-title = "Weed Wizard"
+title = "weed wizard"
 theme = "archie"
 copyright = "© Guards of Lourn"
 pygmentsstyle = "monokai"
@@ -13,21 +13,21 @@ pygmentscodefencesguesssyntax = true
   useCDN = false
 
 [[menu.main]]
-name = "Home"
+name = "home"
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "All posts"
+name = "all posts"
 url = "/posts"
 weight = 2
 
 [[menu.main]]
-name = "About"
+name = "about"
 url = "/about"
 weight = 3
 
 [[menu.main]]
-name = "Tags"
+name = "tags"
 url = "/tags"
 weight = 4
